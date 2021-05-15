@@ -1,2 +1,2 @@
 # C_prog
-A project on C Programming
+Some interesting problems in C.
