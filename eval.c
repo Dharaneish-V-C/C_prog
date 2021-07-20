@@ -2,6 +2,7 @@
 Dharaneish V C - CB.EN.U4CSE20315
 BTech CSE 2024, Amrita University, Coimbatore
 20 July, 2021
+Based on Basic C Programming - Basics, Functions, Arrays, Structures
 
 -------------------------------------------------------------TV & Moniter Digital Inventary---------------------------------------------
 Let a electronics store sells Televisions and Computer Monitors. It is attempting to create a digital inventory for its products. Each electronic is defined by its model id (numeric), price, quantity available and  Numbers_sold. A television has certain specifications such as screen resolution, refresh rate, and type (OLED, LED, Plasma). Monitors have specifications such as Screen size, brightness, and response time.
@@ -649,3 +650,5 @@ void view()
         printf("Error Option.");
     }
 }
+
+//end
