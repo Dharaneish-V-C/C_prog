@@ -5,7 +5,11 @@ BTech CSE 2024, Amrita University, Coimbatore
 Based on Basic C Programming - Basics, Functions, Arrays, Structures
 
 -------------------------------------------------------------TV & Moniter Digital Inventary---------------------------------------------
-Let a electronics store sells Televisions and Computer Monitors. It is attempting to create a digital inventory for its products. Each electronic is defined by its model id (numeric), price, quantity available and  Numbers_sold. A television has certain specifications such as screen resolution, refresh rate, and type (OLED, LED, Plasma). Monitors have specifications such as Screen size, brightness, and response time.
+Let a electronics store sells Televisions and Computer Monitors. It is attempting to create a digital inventory for its products. 
+Each electronic is defined by its model id (numeric), price, quantity available and  Numbers_sold. 
+A television has certain specifications such as screen resolution, refresh rate, and type (OLED, LED, Plasma). 
+Monitors have specifications such as Screen size, brightness, and response time.
+
 Following functions are done -
 1. To allow user to enter new items/delete old items from the inventory (except Numbers_sold)
 2. allowing a user to update the specifications as well as quantity of the product (except Numbers_sold)
@@ -13,7 +17,7 @@ Following functions are done -
 4. To get input of Numbers_sold for each item and calculate the total revenue the store has generated.
 5. Sort the products based on number of units sold and determine most popular product.
 6. Output info about inventory
-*/
+-------------------------------------------------------------------------------------------------------------------------------------------- */
 
 #include<stdio.h>
 #include<stdlib.h>
